@@ -1,215 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdfe1d71-94d8-4c2b-985c-8be3160eedca" name="Default Changelist" comment="修复视图">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/git-test-project/com/lyz/git/FirstClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/ali-pay/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/ali-pay/src/main/java/cn/lyz/service/impl/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/ali-pay/src/main/resources/META-INF/services/cn.lyz.service.PayService" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/ali-pay/target/classes/META-INF/services/cn.lyz.service.PayService" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/ali-pay/target/classes/cn/lyz/service/impl/AliPay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/main-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/main-test/src/main/java/cn/lyz/test/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/main-test/target/classes/cn/lyz/test/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/service-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/service-common/src/main/java/cn/lyz/service/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/service-common/target/classes/cn/lyz/service/PayService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/wx-pay/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/wx-pay/src/main/java/cn/lyz/service/impl/WxPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/java_spi/wx-pay/target/classes/cn/lyz/service/impl/WxPay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/src/main/java/cn/lyz/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/src/main/java/cn/lyz/controller/YamlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/src/main/java/cn/lyz/model/AcmeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/target/classes/cn/lyz/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/target/classes/cn/lyz/controller/YamlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/spring-profile/target/classes/cn/lyz/model/AcmeProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/src/main/java/cn/lyz/SpringApplicationSrc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/src/main/java/cn/lyz/cn/lyz/config/DataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/src/main/java/cn/lyz/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/src/main/java/cn/lyz/controller/JDBCTemplateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/cn/lyz/SpringApplicationSrc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/cn/lyz/cn/lyz/config/DataSourceConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/cn/lyz/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/classes/cn/lyz/controller/JDBCTemplateController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/springboot-datasource-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-datasource/target/springboot-datasource-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/SpringApplicationSrc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/config/DataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/controller/JDBCTemplateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/mapper/PersonMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/java/cn/lyz/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/SpringApplicationSrc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/config/DataSourceConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/controller/JDBCTemplateController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/mapper/PersonMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/classes/cn/lyz/model/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/springboot-mybatis_anno-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lyz_springboot/springboot-mybatis_anno/target/springboot-mybatis_anno-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/out/production/springboot-bind-cons/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/controller/YamlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/model/AcmeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/model/AnotherComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/model/OwnerProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/model/ValueProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/java/cn/tx/sboot/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/controller/YamlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/model/AcmeProperties$Security.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/model/AcmeProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/model/AnotherComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/model/OwnerProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/model/ValueProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/classes/cn/tx/sboot/service/MyService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/springboot-bind-cons-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-cons/target/springboot-bind-cons-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/src/main/java/cn/tx/sboot/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/src/main/java/cn/tx/sboot/controller/YamlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/src/main/java/cn/tx/sboot/model/AcmeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/cn/tx/sboot/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/cn/tx/sboot/controller/YamlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/cn/tx/sboot/model/AcmeProperties$Security.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/classes/cn/tx/sboot/model/AcmeProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/springboot-bind-prop-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-bind-prop/target/springboot-bind-prop-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/src/main/java/cn/tx/sboot/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/src/main/resources/myproject.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/classes/cn/tx/sboot/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/classes/myproject.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/springboot-config-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-config/target/springboot-config-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/src/main/java/cn/tx/sboot/FirstSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/src/main/resources/static/tx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/classes/cn/tx/sboot/FirstSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/classes/static/tx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/springboot-first-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-first/target/springboot-first-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/src/main/java/cn/tx/sboot/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/src/main/java/cn/tx/sboot/controller/YamlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/src/main/java/cn/tx/sboot/model/AcmeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/cn/tx/sboot/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/cn/tx/sboot/controller/YamlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/cn/tx/sboot/model/AcmeProperties$Security.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/classes/cn/tx/sboot/model/AcmeProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/springboot-profile-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-profile/target/springboot-profile-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/java/cn/tx/sboot/ConfigSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/java/cn/tx/sboot/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/java/cn/tx/sboot/controller/YamlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/java/cn/tx/sboot/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/java/cn/tx/sboot/model/YamlModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/cn/tx/sboot/ConfigSpringApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/cn/tx/sboot/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/cn/tx/sboot/controller/YamlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/cn/tx/sboot/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/classes/cn/tx/sboot/model/YamlModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/springboot-yaml-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tx_sboot/springboot-yaml/target/springboot-yaml-1.0-SNAPSHOT.jar.original" afterDir="false" />
+    <list default="true" id="cdfe1d71-94d8-4c2b-985c-8be3160eedca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,13 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -281,7 +76,8 @@
       <updated>1600166555928</updated>
       <workItem from="1600166557034" duration="894000" />
       <workItem from="1600181969405" duration="895000" />
-      <workItem from="1600182891537" duration="699000" />
+      <workItem from="1600182891537" duration="952000" />
+      <workItem from="1600184330019" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="修复视图">
       <created>1600166644074</created>
@@ -304,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600183405312</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修复视图">
+      <created>1600183812076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600183812076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,10 +118,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="修复视图" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600183576999">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600183810559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183576999" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183810559" />
     <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1600167452437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -339,10 +142,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183235187" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600183453194">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600183820235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183453194" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183820235" />
     <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600183268935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

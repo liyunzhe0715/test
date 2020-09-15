@@ -13,7 +13,7 @@ public class FirstClass {
         test();
     }
     public static void test() {
-        int i = 1;
+        int i = 3;
         System.out.println(i);
     }
 }
