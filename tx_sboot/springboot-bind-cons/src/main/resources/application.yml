@@ -1,0 +1,14 @@
+acme:
+  enabled: true
+  remote-address: 192.168.0.108
+  security:
+    username: txjava
+    password: 123
+    roles:
+      - 男主角
+      - 摄影师
+  my-person:
+    person:
+      firstName: 亮哥
+      age: 30
+      email: 44@163.com

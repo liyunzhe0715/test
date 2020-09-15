@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "acme",
+      "type": "cn.lyz.model.AcmeProperties",
+      "sourceType": "cn.lyz.model.AcmeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "acme.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "cn.lyz.model.AcmeProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "acme.remote-address",
+      "type": "java.net.InetAddress",
+      "sourceType": "cn.lyz.model.AcmeProperties"
+    }
+  ],
+  "hints": []
+}

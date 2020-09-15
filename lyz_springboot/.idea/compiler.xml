@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-profile" />
+        <module name="springboot-datasource" />
+        <module name="ali-pay" />
+        <module name="springboot-mybatis_anno" />
+        <module name="wx-pay" />
+        <module name="service-common" />
+        <module name="main-test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ali-pay" options="-parameters" />
+      <module name="java_spi" options="-parameters" />
+      <module name="main-test" options="-parameters" />
+      <module name="service-common" options="-parameters" />
+      <module name="spring-profile" options="-parameters" />
+      <module name="springboot-datasource" options="-parameters" />
+      <module name="springboot-mybatis_anno" options="-parameters" />
+      <module name="wx-pay" options="-parameters" />
+    </option>
+  </component>
+</project>
