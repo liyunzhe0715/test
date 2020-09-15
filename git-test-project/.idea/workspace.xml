@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdfe1d71-94d8-4c2b-985c-8be3160eedca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdfe1d71-94d8-4c2b-985c-8be3160eedca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +29,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,7 +75,7 @@
       <workItem from="1600166557034" duration="894000" />
       <workItem from="1600181969405" duration="895000" />
       <workItem from="1600182891537" duration="952000" />
-      <workItem from="1600184330019" duration="349000" />
+      <workItem from="1600184330019" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="修复视图">
       <created>1600166644074</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600183812076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修复视图">
+      <created>1600184860913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600184860913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,10 +123,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="修复视图" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600183810559">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600184859161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183810559" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600184859161" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1600184874248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600184874248" />
     <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1600167452437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -138,21 +147,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600167452437" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1600183235187">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1600184893432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183235187" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600183820235">
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600184893432" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600184879854">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183820235" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600184879854" />
     <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600183268935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600183268935" />
-    <state x="558" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600167301307">
+    <state x="558" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600185175108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="558" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600167301307" />
+    <state x="558" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1600185175108" />
   </component>
 </project>
