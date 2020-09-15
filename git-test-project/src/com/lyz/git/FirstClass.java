@@ -1,6 +1,5 @@
 package com.lyz.git;
 
-import java.util.Arrays;
 
 /**
  * git测试类
@@ -11,9 +10,11 @@ import java.util.Arrays;
 public class FirstClass {
     public static void main(String[] args) {
         System.out.println("hello git");
+        test();
     }
-    public void test() {
+    public static void test() {
         int i = 0;
+        System.out.println(i);
     }
 }
 
