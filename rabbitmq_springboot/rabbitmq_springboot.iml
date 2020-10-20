@@ -97,5 +97,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-library:2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.amqp:spring-rabbit-junit:2.2.11.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.rabbitmq:http-client:3.2.0.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13" level="project" />
   </component>
 </module>
