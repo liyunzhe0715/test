@@ -1,0 +1,4 @@
+com\lyz\rabbitmq_springboot\RabbitmqSpringbootApplication.class
+fanout\FanoutCustomer.class
+com\lyz\rabbitmq_springboot\work\WorkCustomer.class
+com\lyz\rabbitmq_springboot\hello\HelloWorld.class
